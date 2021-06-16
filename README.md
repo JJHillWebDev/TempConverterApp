@@ -1,5 +1,4 @@
 # TempConverterApp
-Java documentation found in "doc" folders.
 
 # How to run
 (All links can be used for both Linux and Windows systems)
